@@ -2,6 +2,7 @@
 #define player_h
 #include <vector>
 #include <memory>
+#include <string>
 #include "deck.h"
 #include "hand.h"
 //#include "subject.h"
